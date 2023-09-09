@@ -1,0 +1,27 @@
+D:\SEM 5\PBKK\Web_Capture\bin\Debug\Web_Capture.exe.config
+D:\SEM 5\PBKK\Web_Capture\bin\Debug\Web_Capture.exe
+D:\SEM 5\PBKK\Web_Capture\bin\Debug\Web_Capture.pdb
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.AssemblyReference.cache
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.Form1.resources
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.Properties.Resources.resources
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.GenerateResource.cache
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.CoreCompileInputs.cache
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.exe
+D:\SEM 5\PBKK\Web_Capture\obj\Debug\Web_Capture.pdb
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.AssemblyReference.cache
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.Form1.resources
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.Properties.Resources.resources
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.GenerateResource.cache
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.CoreCompileInputs.cache
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.exe
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.pdb
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\Web_Capture.exe.config
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\Web_Capture.exe
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\Web_Capture.pdb
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\AForge.dll
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\AForge.Video.DirectShow.dll
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\AForge.Video.dll
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\AForge.xml
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\AForge.Video.xml
+D:\SEM_5\PBKK\Web_Capture\bin\Debug\AForge.Video.DirectShow.xml
+D:\SEM_5\PBKK\Web_Capture\obj\Debug\Web_Capture.csproj.CopyComplete
